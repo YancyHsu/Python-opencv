@@ -1,2 +1,1 @@
-# Python-opencv
-人脸识别追踪
+Python3.6+opencv3.2+Raspberry Pi3
